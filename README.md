@@ -1,13 +1,13 @@
 # Testes_de_Ordenacao
-Teste de performance entre algoritmos de Ordenação.
+Teste de performance entre algoritmos de Ordenação;
 Trabalho acadêmico - Disciplina P.O.T.A (Pesquisa, Ordenação e Técnicas de Armazenamento) - Engenharia da Computação
 
 Foram testados os seguintes algoritmos de ordenação: Selection Sort, Insertion Sort, Bubble Sort, Shell Sort, Heap Sort, Merge Sort e Quick Sort, com o intuito de obter a média entre comparações e trocas.
 
 # Setup
-Vetor inicial: 10 posições
-Aumento do vetor: +50
-Rodadas: 50
+Vetor inicial: 10 posições;
+Aumento do vetor: +50;
+Rodadas: 50;
 
 # Procedimento
 1. Na primeira rodada, é gerado um vetor inicial com X posições, preenchido com números aleatórios;
