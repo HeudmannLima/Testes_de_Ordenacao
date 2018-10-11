@@ -13,5 +13,5 @@ Rodadas: 50;
 1. Na primeira rodada, é gerado um vetor inicial com X posições, preenchido com números aleatórios;
 2. O mesmo vetor passa por cada um dos 7 algoritmos de ordenação, registrando em acumuladores as TROCAS e COMPARAÇÕES de cada ordenação;
 3. A cada rodada, o vetor aumenta de tamanho X vezes, até o limite máximo de rodadas;
-4. Ao fim de todas as rodadas, o programa imprime um relatório com as médias de TROCAS e COMPARAÇÕES de cada ordenação, mostrando o desempenho de cada algoritmo em cada uma das rodadas.
+4. Ao fim de todas as rodadas, o programa imprime um relatório com as médias de TROCAS e COMPARAÇÕES de cada ordenação, mostrando o desempenho de cada algoritmo em cada uma das rodadas. OK
 
